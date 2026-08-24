@@ -29,7 +29,7 @@ Video_Connect is a video conferencing application inspired by Google Meet. It al
 Clone the project
 
 ```bash
-  [git clone https://github.com/bhargavareddy91/VIDEO-CONNECT](https://github.com/Praneethxyz/Video_Con)
+  https://github.com/Praneethxyz/Video_Con
 ```
 or download the zip file.
 
